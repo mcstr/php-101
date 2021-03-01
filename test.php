@@ -18,7 +18,11 @@
     include './Conditionals.php';
     echo "<br>";
     echo "<br>";
-    include './logicOperators.php'
+    include './logicOperators.php';
+    echo "<br>";
+    echo "<br>";
+    include './turnary.php'
+
        
     
     
