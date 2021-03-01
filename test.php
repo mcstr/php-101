@@ -15,7 +15,10 @@
     include './Operators.php';
     echo "<br>";
     echo "<br>";
-    include './Conditionals.php'
+    include './Conditionals.php';
+    echo "<br>";
+    echo "<br>";
+    include './logicOperators.php'
        
     
     

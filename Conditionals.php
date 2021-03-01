@@ -14,6 +14,14 @@ if (4 > 99) {
 }
 
 
+$int1 = 6;
 
+
+echo"<br>";
+echo"<br>";
+
+if($int1 != 9) {
+    echo "int1 is not equal to 9";
+}
 
 ?>
