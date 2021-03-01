@@ -7,10 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Test field</h1>
+    <h1>Tests field</h1>
     <?php 
 
-    include './StringsIntegers.php'
+    include './StringsIntegers.php';
+    echo "<br>";
+    include './Operators.php';
+    echo "<br>";
+    echo "<br>";
+    include './Conditionals.php'
        
     
     

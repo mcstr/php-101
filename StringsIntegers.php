@@ -8,4 +8,9 @@ $text2 = 'here';
 echo "<h2>" . $text0 . "</h2>";
 echo "<h3>" . $text1 . " " .  $text2 . "</h3>" ;
 
+echo 9 + 4;
+echo "<br>";
+echo "9 + 4";
+
+
 ?>
