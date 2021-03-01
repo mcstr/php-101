@@ -21,7 +21,13 @@
     include './logicOperators.php';
     echo "<br>";
     echo "<br>";
-    include './turnary.php'
+    include './turnary.php';
+    echo "<br>";
+    echo "<br>";
+    include './switch.php';
+    echo "<br>";
+    echo "<br>";
+    include './forloops.php';
 
        
     

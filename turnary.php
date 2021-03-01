@@ -17,5 +17,4 @@ $result2 = $init ?: 'default value in case no value or the variable do not exist
 echo "<br>";
 echo $result2
 
-
 ?>
