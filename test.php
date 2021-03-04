@@ -28,6 +28,9 @@
     echo "<br>";
     echo "<br>";
     include './forloops.php';
+    echo "<br>";
+    echo "<br>";
+    include './while&dowhile.php'
 
        
     
